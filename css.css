@@ -1,0 +1,140 @@
+.icon {
+    color: rgb(240, 161, 13);
+    font-size: 35px;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.icon img {
+    /* width: 60px;
+    height: 60px; */
+    border-radius: 50%;
+}
+
+.dropdown-item {
+    background-color: rgb(255, 162, 0);
+}
+
+.title {
+    background-image: url(img2/cook-food-kitchen-eat-54455.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1520px;
+    height: 600px;
+    background-position: center;
+}
+
+.title-content {
+    border-bottom: 4px dotted rgb(255, 255, 255);
+    font-size: 100px;
+    text-align: center;
+    margin: 100px;
+    font-family: 'IBM Plex Serif', serif;
+    color: rgb(249, 248, 248);
+    /* text-decoration: underline; */
+}
+
+.intro {
+    /* border-top: 4px dotted black; */
+    font-size: 30px;
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+    /* margin: 40px 30px; */
+    padding: 25px 30px;
+}
+
+.intro img {
+    position: relative;
+    top: 70px;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.intro p {
+    text-align: justify;
+}
+
+.menu-content {
+    /* border-top: 4px dotted black; */
+    margin: 80px 30px;
+    -ms-flex-item-align: center;
+    /* background-color: wheat; */
+    padding: 30px 30px;
+}
+
+.menu-content img {
+    height: 200px;
+}
+
+.quotes {
+    /* border-top: 4px dotted black; */
+    
+    font-size: 30px;
+    font-family: 'IBM Plex Serif', serif;
+    /* margin: 80px 30px;  */
+    padding: 30px 30px;
+    line-height: 1.5;
+    text-align: center;
+    /* background: rgba(245, 222, 179, 0.25);
+    box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(4.5px);
+    -webkit-backdrop-filter: blur(4.5px);
+    border-radius: 10px; */
+
+
+}
+
+.quotes li {
+    list-style: none;
+    padding: 3%;
+}
+
+.card {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.card:hover {
+    width: 300px;
+    background-color: wheat;
+    /* transition-delay: 1s; */
+    border-radius: 5%;
+}
+
+hr {
+    border: dotted rgb(228, 153, 14) 10px;
+    border-bottom: none;
+    width: 10%;
+    margin: auto;
+}
+
+.sponcers {
+    background-color: rgb(245, 222, 179);
+    height: 110px;
+    /* margin: auto; */
+    margin: 5px 0;
+    margin-bottom: 0px;
+   
+}
+
+.sponcers a {
+    position: relative;
+    left: 40%;
+    text-decoration: none;
+    margin: auto;
+    font-size: 20px;
+    padding: 10px 10px;
+    color: rgb(8, 187, 246);
+}
+
+.sponcers p {
+    position: relative;
+    top: 40px;
+    left: 42%;
+    /* font-family: 'IBM Plex Serif', serif; */
+    font-size: 20px;
+
+}
+
+.sponcers a:hover {
+    color: aliceblue;
+}

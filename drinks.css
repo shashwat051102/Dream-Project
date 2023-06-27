@@ -1,0 +1,33 @@
+.icon{
+    color: rgb(240, 161, 13);
+    font-size: 35px;
+    font-family: 'IBM Plex Serif', serif;
+font-weight: bolder;
+}
+
+#title{
+    background-image: url(235905.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1520px;
+    height: 600px;
+    background-position: center;
+
+}
+.navbar-content{
+    font-size: 20px;
+    font-family: 'IBM Plex Serif', serif;
+}
+#navbar-content{
+    font-weight: bold;
+}
+.title-content {
+    /* border-bottom: 4px dotted rgb(255, 255, 255); */
+    font-size: 150px;
+    text-align: center;
+    margin: 100px;
+    font-family: 'Lobster', cursive;
+    -webkit-text-stroke: 2px black;
+    color: rgb(255, 255, 255, 0.75);
+    /* text-decoration: underline; */
+}
